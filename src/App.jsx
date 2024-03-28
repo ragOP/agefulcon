@@ -3,6 +3,7 @@ import Chat from "./components/Chat";
 import Homepage from "./components/Homepage";
 
 function App() {
+  // test
   return (
     <BrowserRouter>
       <Routes>
